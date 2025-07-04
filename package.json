@@ -1,0 +1,15 @@
+{
+  "name": "sonarqube-node-app",
+  "version": "1.0.0",
+  "description": "A Node.js app with CI pipeline and SonarQube integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}
